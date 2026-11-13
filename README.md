@@ -36,7 +36,7 @@ On your Android TV / Google TV (Android 5.0+):
 
 1. **Downloader (easiest):** install the free Downloader app from the Play Store, open it,
    type the code from the release post, press Go, then Install.
-   **Downloader code: sẽ có sau khi đăng GitHub** (this release is not published yet).
+   **Downloader code: 1258763**
 2. **Send Files to TV:** install the app on your TV and your phone, send the APK from your
    phone, open it with a file manager and Install.
 3. **USB:** copy the APK to a FAT32 USB stick, plug it into the TV, open it with a file
