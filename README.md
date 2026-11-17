@@ -36,7 +36,7 @@ On your Android TV / Google TV (Android 5.0+):
 
 1. **Downloader (easiest):** install the free Downloader app from the Play Store, open it,
    type the code from the release post, press Go, then Install.
-   **Downloader code: 1258763** (v1.0.0 — v1.0.1/v1.0.2 code TBD until publish)
+   **Downloader code: 1435616** (v1.0.4 — mã cũ 1258763 chỉ còn v1.0.0).
 2. **Send Files to TV:** install the app on your TV and your phone, send the APK from your
    phone, open it with a file manager and Install.
 3. **USB:** copy the APK to a FAT32 USB stick, plug it into the TV, open it with a file
@@ -70,7 +70,7 @@ incomplete; indicator signals are context for research, never a guarantee.
 
 ## Changelog
 
-### v1.0.4 (built 2026-11-18, not yet published — Downloader code TBD)
+### v1.0.4 (published 2026-11-18 — Downloader code: 1435616)
 
 Audit fixes from Astra (Xingchi API) code review of v1.0.3 — 4 small bugs, ~30 lines. Includes all v1.0.3 fixes below.
 
